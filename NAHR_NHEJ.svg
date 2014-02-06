@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1110.6105"
+   height="478.39062"
+   id="svg6028"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="NAHR_NHEJ.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8"
+     inkscape:cx="615.39286"
+     inkscape:cy="188.53571"
+     inkscape:document-units="px"
+     inkscape:current-layer="g8422"
+     showgrid="false"
+     inkscape:window-width="1489"
+     inkscape:window-height="765"
+     inkscape:window-x="25"
+     inkscape:window-y="154"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs6030">
+    <linearGradient
+       id="linearGradient8235"
+       inkscape:collect="always">
+      <stop
+         id="stop8237"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+      <stop
+         id="stop8239"
+         offset="1"
+         style="stop-color:#ff0000;stop-opacity:0;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sendg"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sendg">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path5560" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1SendgK"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1SendgK">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path5594" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1SendgA"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1SendgA">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path5631" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sendg-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sendg">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path5560-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1SendgK-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1SendgK">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path5594-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1SendgA-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1SendgA">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path5631-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sendga"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sendga">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#00ff00;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path8144" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1SendgAU"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1SendgAU">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000080;fill-rule:evenodd;stroke:#000080;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path8198" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1SendgAF"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1SendgAF">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000080;fill-rule:evenodd;stroke:#000080;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path8285" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8235"
+       id="linearGradient8438"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-340,-20)"
+       x1="422.72028"
+       y1="642.24023"
+       x2="577.33075"
+       y2="642.24023" />
+  </defs>
+  <metadata
+     id="metadata6033">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(114.30522,-428.22156)">
+    <g
+       id="g8393">
+      <g
+         id="g5881"
+         transform="translate(-163.85346,15.583903)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4037"
+           d="m 54.548237,496.77828 135.360443,0"
+           style="fill:none;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendg)" />
+        <path
+           style="fill:#ff0000;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgK)"
+           d="m 206.54824,496.77828 135.36044,0"
+           id="path5578"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5580"
+           d="m 358.54824,496.77828 135.36044,0"
+           style="fill:#008000;stroke:#008000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgA)" />
+      </g>
+      <path
+         style="fill:none;stroke:#00ff00;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendga)"
+         d="m -64.27971,622.24025 135.36044,0"
+         id="path4037-2"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5578-4"
+         d="m 87.72029,622.24025 135.36044,0"
+         style="fill:#ff0000;stroke:url(#linearGradient8438);stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgK)" />
+      <path
+         style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgAU)"
+         d="m 239.72029,622.24025 135.36044,0"
+         id="path5580-8"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g8371">
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendg)"
+           d="m 542.69478,562.36218 135.36044,0"
+           id="path8245"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path8247"
+           d="m 694.69478,562.36218 135.36044,0"
+           style="fill:#ff0000;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgK)" />
+        <path
+           style="fill:#008000;stroke:#000080;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgAF)"
+           d="m 846.69478,562.36218 135.36044,0"
+           id="path8249"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8357"
+         y="458.61218"
+         x="-16.25"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="458.61218"
+           x="-16.25"
+           id="tspan8359"
+           sodipodi:role="line">Non-Allelic Homologous Recombination (NAHR)</tspan></text>
+      <path
+         id="rect8380"
+         d="m 477.75,519.8125 0.0312,25.5625 -77.78125,0 0,33.75 77.78125,0 L 477.75,604.65625 520.1875,562.25 477.75,519.8125 z"
+         style="fill:none;stroke:#000080;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g8422"
+       transform="translate(37.743621,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text8361"
+         y="717.36218"
+         x="42.475128"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="717.36218"
+           x="42.475128"
+           id="tspan8363"
+           sodipodi:role="line">Non-Homologous End Joining (NHEJ)</tspan></text>
+      <g
+         id="g8409">
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendg)"
+           d="m -109.30522,772.36218 135.36044,0"
+           id="path8338"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path8340"
+           d="m 70.69478,772.36218 135.36044,0"
+           style="fill:#ff0000;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgK)" />
+        <path
+           style="fill:#008000;stroke:#008000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgA)"
+           d="m 222.69478,772.36218 135.36044,0"
+           id="path8342"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#00ff00;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendga)"
+           d="m 95.72029,882.24025 135.36044,0"
+           id="path8344"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgAU)"
+           d="m 267.72029,882.24025 135.36044,0"
+           id="path8346"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8376"
+           transform="translate(-0.512755,0)">
+          <path
+             style="fill:none;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Sendg)"
+             d="m 618.69478,818.36218 135.36044,0"
+             id="path8353"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendgAU)"
+             d="m 771.72029,820.24025 135.36044,0"
+             id="path8355"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 57.5,748.61218 -8.75,27.5 11.25,-7.5 -10,27.5"
+           id="path8365"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path8369"
+           d="m 259.5,858.61218 -8.75,27.5 11.25,-7.5 -10,27.5"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           id="path8391"
+           d="m 517.75,779.8125 0.0312,25.5625 -77.78125,0 0,33.75 77.78125,0 L 517.75,864.65625 560.1875,822.25 517.75,779.8125 z"
+           style="fill:none;stroke:#000080;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {1}{Genomic Structural Variations and the Contributions of this Thesis}{3}{0}{1}
+\beamer@sectionintoc {2}{Gibbon Genome Breakpoint Analysis}{6}{0}{2}
+\beamer@sectionintoc {3}{Detecting SVs from Short-Read Sequencing Data}{9}{0}{3}
+\beamer@sectionintoc {4}{Cloudbreak: Applying Distributed Computing to SV Detection}{21}{0}{4}
+\beamer@sectionintoc {5}{Integrating SV Signals with Discriminative Machine Learning}{41}{0}{5}
+\beamer@sectionintoc {6}{Discussion}{51}{0}{6}
